@@ -45,12 +45,15 @@ With a strong foundation in **Linux and Python**, I enjoy working across the sta
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&amp;logo=powershell&amp;logoColor=white)
 
 ### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&amp;logo=amazon-aws&amp;logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&amp;logo=kubernetes&amp;logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&amp;logo=ansible&amp;logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&amp;logo=jenkins&amp;logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&amp;logo=github-actions&amp;logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)
+
 
 ### 🐧 Linux & Distributions  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black)
