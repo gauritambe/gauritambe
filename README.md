@@ -44,6 +44,10 @@ With a background in **Python**, I enjoy working across the stack—from scripti
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=flat&logo=almalinux&logoColor=white)
 
+### Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-white?logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+
 ### Tools & Others  
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
