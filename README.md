@@ -76,8 +76,13 @@ With a background in **Python**, I enjoy working across the stack—from scripti
 
 ## 🏆 GitHub Trophies  
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauritambe&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=10&amp;margin-h=10" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=gauritambe&amp;theme=tokyonight&amp;no-frame=true&amp;column=6&amp;margin-w=15&amp;margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 
