@@ -90,22 +90,14 @@ With a strong foundation in **Linux and Python**, I enjoy working across the Dev
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauritambe&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauritambe&theme=tokyonight&utcOffset=5.5" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauritambe&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gauritambe&theme=tokyonight&hide_border=true" />
-</p>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauritambe&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauritambe&theme=tokyonight" />
 </p>
+
 
 ---
 
