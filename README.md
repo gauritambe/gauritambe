@@ -41,6 +41,8 @@ With a strong foundation in **Linux and Python**, I enjoy working across the sta
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&amp;logo=c&amp;logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&amp;logo=c%2B%2B&amp;logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&amp;logo=python&amp;logoColor=ffdd54)
+![Nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&amp;logo=gnu-bash&amp;logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&amp;logo=powershell&amp;logoColor=white)
 
@@ -61,6 +63,14 @@ With a strong foundation in **Linux and Python**, I enjoy working across the sta
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&amp;logo=centos&amp;logoColor=white)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=flat&amp;logo=almalinux&amp;logoColor=white)
+
+### 💻 Servers 
+![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
+
+### 🌿 Database 
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### 📈 Monitoring & Observability  
 ![Prometheus](https://img.shields.io/badge/Prometheus-white?logo=prometheus)
