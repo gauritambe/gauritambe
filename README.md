@@ -12,7 +12,7 @@
 
 I’m a **Cloud Engineer** and **DevOps Enthusiast** from India, passionate about building **scalable infrastructure**, **automated CI/CD pipelines**, and **cloud-native solutions**.
 
-With a strong foundation in **Linux and Python**, I enjoy working across the DevOps lifecycle—from scripting and automation to deploying and managing workloads on **AWS**.
+With a strong foundation in **Linux and Python**, I enjoy working across the DevOps lifecycle from scripting and automation to deploying and managing workloads on **AWS**.
 
 - 🔭 Working on **DevOps, Cloud, and Automation fundamentals**
 - 🌱 Currently learning **Ansible, Kubernetes, and Jenkins**
