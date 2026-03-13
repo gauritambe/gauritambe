@@ -18,7 +18,6 @@ With a strong foundation in **Linux and Python**, I enjoy working across the Dev
 - 🌱 Currently learning **Ansible, Kubernetes, and Jenkins**
 - 👯 Open to collaborating on **DevOps labs, CI/CD pipelines, and cloud projects**
 - 💬 Ask me about **Linux, Git, AWS basics, Docker, Networking, and DevOps**
-- 📂 GitHub: **[github.com/gauritambe](https://github.com/gauritambe)**
 - 📄 Portfolio: **[View Portfolio](https://github.com/gauritambe/portfolio)**
 - 📫 Email: **gauritambe1536@gmail.com**
 
