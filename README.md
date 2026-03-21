@@ -1,122 +1,103 @@
-# Hello 👋  
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A9A8&size=24&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gauri+Tambe+👋;Cloud+Engineer+%7C+DevOps+Enthusiast;Learning+Ansible%2C+Kubernetes%2C+Jenkins+and+More" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Gauri%20Tambe&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-## 🚀 About Me  
+<div align="center">
 
-I’m a **Cloud Engineer** and **DevOps Enthusiast** from India, passionate about building **scalable infrastructure**, **automated CI/CD pipelines**, and **cloud-native solutions**.
+```
+Cloud Engineer  ·  DevOps Enthusiast  ·  Infrastructure Builder
+```
 
-With a strong foundation in **Linux and Python**, I enjoy working across the DevOps lifecycle from scripting and automation to deploying and managing workloads on **AWS**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=A78BFA&center=true&vCenter=true&width=480&lines=Building+scalable+cloud-native+solutions;Automating+CI%2FCD+pipelines;Learning+Ansible+%E2%80%B7+Kubernetes+%E2%80%B7+Jenkins)](https://git.io/typing-svg)
 
-- 🔭 Working on **DevOps, Cloud, and Automation fundamentals**
-- 🌱 Currently learning **Ansible, Kubernetes, and Jenkins**
-- 👯 Open to collaborating on **DevOps labs, CI/CD pipelines, and cloud projects**
-- 💬 Ask me about **Linux, Git, AWS basics, Docker, Networking, and DevOps**
-- 📄 Portfolio: **[View Portfolio](https://github.com/gauritambe/portfolio)**
-- 📫 Email: **gauritambe1536@gmail.com**
+</div>
 
 ---
 
-## 🏆 GitHub Achievements  
+### `whoami`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauritambe&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" />
-</p>
+Cloud Engineer from India, focused on **DevOps, cloud infrastructure, and automation**. I work across the full DevOps lifecycle from scripting and containerization to deploying production workloads on AWS.
 
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages & Scripting  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+```yaml
+currently:   Learning Ansible, Kubernetes, Terraform & Jenkins
+open_to:     DevOps Internship · Cloud Support · Linux Admin
+ask_me:      Linux · Git · AWS · Docker · Networking
+portfolio:   github.com/gauritambe/portfolio
+email:       gauritambe1513@gmail.com
+```
 
 ---
 
-### 🌐 Web & Runtime  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### `tech_stack`
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Linux**
+
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&logo=almalinux&logoColor=white)
+
+**Monitoring · Databases · Web**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=github-actions&logoColor=white)
+### `github_stats`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauritambe&theme=tokyonight&utcOffset=5.5" width="80%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauritambe&theme=tokyonight" width="38%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauritambe&theme=tokyonight" width="38%"/>
+
+</div>
 
 ---
 
-### 🐧 Linux & Distributions  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
-![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=flat&logo=almalinux&logoColor=white)
+### `connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-tambe-b0919225b/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gauritambe1513@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/gauritambe/portfolio)
+
+</div>
 
 ---
 
-### 💻 Servers  
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+<div align="center">
 
----
+<sub>*Learning the cloud, one deployment at a time.*</sub>
 
-### 🌿 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=gauritambe&color=7c3aed&style=flat-square&label=profile+views)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 
-### 📈 Monitoring & Observability  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauritambe&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauritambe&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauritambe&theme=tokyonight" />
-</p>
-
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gauri-tambe-b0919225b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gauritambe1536@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>💡 “Learning the cloud, one deployment at a time.”</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauritambe&color=brightgreen&style=flat-square" />
-</p>
+</div>
